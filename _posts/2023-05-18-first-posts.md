@@ -3,7 +3,7 @@ layout: post
 title:  "첫 게시물!"
 author: mure96
 categories: [ issue ]
-tags: [devlog]
+# tags: [devlog]
 image: assets/images/11.jpg
 featured: true
 hidden: true
