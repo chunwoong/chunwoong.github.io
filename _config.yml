@@ -1,16 +1,17 @@
 # Site
-name: "DevLog"
-title: "DevLog"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "d2vLog"
+title: "d2vLog"
+description: "개발, 학습과 관련된 기록창구입니다. ☺️"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 url: /
-baseurl: chunwoong.github.io/
+baseurl: 
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
+timezone: "ROK"
 
 # Authors
 authors:
@@ -33,7 +34,7 @@ authors:
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
   mure96:
     name: mure96 
-    display_name: mure96 
+    display_name: d2vLog
     email: 1000woong@gmail.com 
     description: "since 2018.12 ~ ing Web Full Stack Developer"
     

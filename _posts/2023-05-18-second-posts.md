@@ -2,7 +2,7 @@
 layout: post
 title:  "첫 게시물!"
 author: mure96
-categories: [ issue ]
+categories: [ second ]
 # tags: [devlog]
 # image: assets/images/11.jpg
 # featured: true 
